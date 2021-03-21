@@ -2,14 +2,16 @@
 
 Elementum, an 8-bit game for Acorn Electron, BBC Micro and BBC Master.
 
-Download and play for free. Donate whatever you want to support me: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S33YYQ7). Also available on floppy disc or CDR.
+Download and play for free. Donate whatever you want to support me: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S33YYQ7).
+
+Also available on floppy disc or CDR.
 
 ### Table of contents
 * [Controls](https://github.com/0xC0DE6502/elementum-releases/blob/main/README.md#controls-redefinable)
 * [Order a floppy disc or CDR](https://github.com/0xC0DE6502/elementum-releases/blob/main/README.md#order-floppy-disc-or-cdr)
 * [Play in your web browser](https://github.com/0xC0DE6502/elementum-releases/blob/main/README.md#playing-on-bbc-emulator)
 
-![Elementum Intro Screen](https://github.com/0xC0DE6502/elementum-releases/blob/main/res/introscreen.jpg?raw=true)
+![Elementum Intro Screen](https://github.com/0xC0DE6502/elementum-releases/blob/main/res/introscreen.png?raw=true)
 
 ![Elementum Screenshot 1](https://github.com/0xC0DE6502/elementum-releases/blob/main/res/screenshot1.png?raw=true)
 ![Elementum Screenshot 2](https://github.com/0xC0DE6502/elementum-releases/blob/main/res/screenshot2.png?raw=true)
