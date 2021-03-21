@@ -8,7 +8,7 @@ Also available on floppy disc or CDR.
 
 ### Table of contents
 * [Controls](https://github.com/0xC0DE6502/elementum-releases/blob/main/README.md#controls-redefinable)
-* [Order a floppy disc or CDR](https://github.com/0xC0DE6502/elementum-releases/blob/main/README.md#order-floppy-disc-or-cdr)
+* [Order a floppy disc or CDR](https://github.com/0xC0DE6502/elementum-releases/blob/main/README.md#order-a-floppy-disc-or-cdr)
 * [Play in your web browser](https://github.com/0xC0DE6502/elementum-releases/blob/main/README.md#playing-on-bbc-emulator)
 
 ![Elementum Intro Screen](https://github.com/0xC0DE6502/elementum-releases/blob/main/res/introscreen.png?raw=true)
