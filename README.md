@@ -2,7 +2,7 @@
 
 Elementum, an 8-bit game for Acorn Electron, BBC Micro and BBC Master.
 
-Download and play for free. Donate whatever you want to support me: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S33YYQ7).
+Download and play for free. Donate whatever you want to support me: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S33YYQ7)
 
 Also available on floppy disc or CDR.
 
