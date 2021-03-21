@@ -18,7 +18,7 @@ Also available on floppy disc or CDR.
 ![Elementum Screenshot 3](https://github.com/0xC0DE6502/elementum-releases/blob/main/res/screenshot3.png?raw=true)
 ![Elementum Screenshot 4](https://github.com/0xC0DE6502/elementum-releases/blob/main/res/screenshot4.png?raw=true)
 
-In a strange, hostile world electronic components have taken the 6502 CPU hostage. Its 8 status flags are scattered all over each of the 32 levels. You, a brave electron, have to collect the flags and free the 6502. Watch out for enemies especially your nemesis: the positron. 
+In a strange, hostile world electronic components have taken the 6502 CPU hostage. Its 8 status flags are scattered all over each of the 32 levels. You, a brave electron, have to collect the flags and free the 6502. Watch out for enemies, especially your nemesis: the positron. 
 
 ## Controls (redefinable)
 
