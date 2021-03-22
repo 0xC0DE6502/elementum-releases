@@ -43,6 +43,11 @@ R     - Redefine controls
 
 Elementum is available on floppy disc or CDR from [Retro Software](https://twitter.com/RetroSoftwareUK). Check the order information in the picture below and specify DFS, ADFS or CDR with your payment. The CDR is also in a nice case and contains emulator images, a digital poster and some other goodies. Contact [Retro Software](https://twitter.com/RetroSoftwareUK) for additional inquiries.
 
+Alternatively, buy Elementum on eBay:
+* [DFS](https://www.ebay.co.uk/itm/133700677267)
+* [ADFS](https://www.ebay.co.uk/itm/133700676440)
+* [DFS + ADFS + Free A3 poster](https://www.ebay.co.uk/itm/133700673678)
+
 ![Elementum Order Info](https://github.com/0xC0DE6502/elementum-releases/blob/main/res/order-info.jpg?raw=true)
 ![Elementum Inlays and Floppies](https://github.com/0xC0DE6502/elementum-releases/blob/main/res/inlays-and-floppies.jpg?raw=true)
 
